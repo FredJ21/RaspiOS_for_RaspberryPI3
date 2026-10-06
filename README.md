@@ -11,3 +11,7 @@ https://downloads.raspberrypi.com/raspios_oldstable_full_armhf/images/
 
 Last official version of RaspiOS distribution with Bullseyes edition : 2025-05-06
 
+
+Donwload here :
+
+https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-05-07/2025-05-06-raspios-bookworm-arm64-full.img.xz
